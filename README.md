@@ -3,6 +3,15 @@ Mstore is a mobile app designed to make shopping easier and more convenient for 
 Some of the main features of Mstore include easy navigation, intuitive search, secure checkout, and real-time order tracking. Whether you're looking for fashion items, dresses, home appliances, or groceries, Mstore has got you covered.
 Mstore stands out from similar apps in the market thanks to its user-friendly interface, fast loading times, and seamless integration with popular payment gateways. You can also customize your Mstore experience by creating wishlists, saving payment methods, and setting up notifications for new arrivals or sales.
 
+
+# Installation Instructions
+ npm install 
+ # Run command
+ npx react-native run-android
+
+
+
+
 # Sc Sh
 ![1](https://user-images.githubusercontent.com/121944629/221571916-712692b0-e13d-4d3d-8488-5e32af6f2ff1.png)
 ![2](https://user-images.githubusercontent.com/121944629/221571922-8d10e40d-f1fe-4011-9b43-8164903e4700.png)

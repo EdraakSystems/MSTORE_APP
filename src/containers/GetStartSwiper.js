@@ -68,6 +68,19 @@ class GetStartSwiper extends React.Component {
             scrollEventThrottle={16}>
             {data.map((swiper, index) => (
               <View key={index} style={styles.viewItem}>
+                <View
+                  style={{
+                    width: '100%',
+                    height: '20%',
+                    alignItems: 'center',
+                    justifyContent: 'center',
+                  }}>
+                  <Image
+                    source={require('../assets/images/edraakLogo.png')}
+                    resizeMode="cover"
+                    style={{height: '30%', width: '30%'}}
+                  />
+                </View>
                 <Image
                   source={swiper.image}
                   resizeMode="stretch"
